@@ -2,4 +2,4 @@ Hello World !!!
 take input from user
 add the values
 
-sumbit data to database
+sumbit data to database!
