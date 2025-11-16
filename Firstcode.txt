@@ -1,5 +1,5 @@
 Hello World !!!
 take input from user
-add the values
+add the values to
 
 sumbit data to database!
